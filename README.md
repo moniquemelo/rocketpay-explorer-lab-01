@@ -43,6 +43,14 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
+
+**JORNAL DIÁRIO:**
+- [X] **1º Dia:** Criação da função para mudança da cor do cartão de acordo com a bandeira selecionada.
+
+
+
+***
+
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
