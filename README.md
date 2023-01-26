@@ -46,6 +46,7 @@ Esse projeto está sob a licença MIT.
 
 ## Jornal diário
 - [X] **1º Dia:** Criação da função para mudança da cor do cartão de acordo com a bandeira selecionada.
+- [X] **2º Dia:** Criação das máscaras dos inputs do cartão, criação dos valores default dos inputs do cartão e ativação da função que capta o tipo de cartão.
 
 ## Informações adicionais
 O objetivo do desafio era praticar o Javascript, então o HTML e o CSS foi fornecido previamente pela Rocketseat. Já o Javascript foi trabalhado durante o evento.
